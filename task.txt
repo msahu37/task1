@@ -1,1 +1,1 @@
-Task is to create a new fine in repository named as "task1".
+Task is to create a new file in repository named as "task1".
